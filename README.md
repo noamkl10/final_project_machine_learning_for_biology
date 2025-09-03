@@ -9,6 +9,6 @@ devtools::install_github("ShellyCoder/cellcall")
 
 watch out that there is a lot of depndencies to install so the R code will run.
 
-after that run AnalyzeTheData.R and then you will get in the all the pictures. 
+run AnalyzeTheData.R and then you will get in the all the pictures. 
 
 both files, espically the second take long time to run.
