@@ -1,7 +1,7 @@
 # final_project_machine_learning_for_biology
 
 for running the code, first download the data from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE106487 and open it.
-put the folder in a folder name data, and then run CreatingAndSortingMatrix.py with the line: python CreatingAndSortingMatrix.py
+put the folder in a folder name data,  adjust the paths in the code and then run CreatingAndSortingMatrix.py with the line: python CreatingAndSortingMatrix.py
 
 after that go to R, and install celcall:
 library(devtools)
